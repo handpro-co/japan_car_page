@@ -1,0 +1,1 @@
+`japancartrade.mn` static page.
